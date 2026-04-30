@@ -16,7 +16,7 @@
 
 **:mailbox: Свяжитесь со мной:**
 
-- **Telegram:** [![Telegram Badge](https://img.shields.io/badge/-rusextaz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/coder_golang)
+- **Telegram:** [![Telegram Badge](https://img.shields.io/badge/-xeneksiz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/coder_golang)
 
 - **Email:** rus.extaz@yandex.ru
 
